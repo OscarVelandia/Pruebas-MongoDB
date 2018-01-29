@@ -58,5 +58,7 @@ descripciones y su formato.
 +----------------------------------------------------+---------------------------------------------------------------+
 ~~~
 
-En el archivo de db.js hay ejemplor de uso de todos los comandos de la tabla.
+En el archivo de db.js hay ejemplos de uso de todos los comandos de la tabla. 
+
+Aunque las bases de datos SQL son diferentes en su concepción (MongoDB es no-SQL) la explicación de la sintaxis es en gran medida un paralelo con su homologo en SQL.
 
